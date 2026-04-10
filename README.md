@@ -6,8 +6,8 @@
 ---
 
 ## Team
-## Aziza Jamjoom 
-## Sadaf Sarbazi 
+**Aziza Jamjoom**
+**Sadaf Sarbazi**
 
 ---
 
