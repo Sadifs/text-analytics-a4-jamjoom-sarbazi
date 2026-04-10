@@ -5,12 +5,6 @@
 
 ---
 
-## Team
-**Aziza Jamjoom**
-**Sadaf Sarbazi**
-
----
-
 ## Dataset
 **Broad Twitter Corpus** — [GateNLP/broad_twitter_corpus](https://huggingface.co/datasets/GateNLP/broad_twitter_corpus)
 
@@ -43,8 +37,16 @@ Dataset → Pretrained NER → Annotation Guidelines → Manual Annotation
 
 ---
 
-## 🛠️ Tools
+## Tools
 - **Annotation:** Label Studio
 - **Models:** HuggingFace Transformers
 - **Evaluation:** seqeval (entity-level F1)
 - **IAA:** Cohen's Kappa (sklearn)
+
+---
+
+## Team
+**Aziza Jamjoom**
+
+**Sadaf Sarbazi**
+
