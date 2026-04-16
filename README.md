@@ -82,12 +82,5 @@ Dataset → Language/Emoji Filtering → Pretrained NER Baseline → Annotation 
 
 ---
 
-## Checkpoints
-
-- Checkpoint 1 (Apr 12) — Dataset, pretrained model, guidelines v1.0, Batch 1 IAA
-- Final submission — All batches annotated, models trained, report complete
-
----
-
 ## Team
 **Aziza Jamjoom** · **Sadaf Sarbazi**
