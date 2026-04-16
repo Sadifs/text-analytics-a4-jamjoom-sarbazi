@@ -36,8 +36,6 @@ Dataset → Language/Emoji Filtering → Pretrained NER Baseline → Annotation 
 **Annotation Batches:**
 - Batch 1: 10 docs — both annotators independently
 - Batch 2: 100 docs each + 20 overlap for IAA
-- Batch 3: 90 docs — model pre-annotated, human corrected
-
 ---
 
 ## Models
