@@ -23,7 +23,7 @@
 
 | Task | Notes |
 |------|-------|
-| Annotation guidelines | Written by me (v1.0) without AI assistance |
+| Annotation guidelines | Written by me (v1.0) without AI assistance - AI used only for formatting edits |
 | Annotating documents | All documents annotated manually in Label Studio |
 | Interpreting IAA results | IAA analysis and guideline refinement decisions made by me and my partner |
 | Resolving annotation disagreements | Discussed and resolved with Aziza directly |
