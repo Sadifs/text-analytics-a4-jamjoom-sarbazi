@@ -1,6 +1,7 @@
 # Assignment 4: Named Entity Recognition (NER)
 ### BSAN 6200 — Text Mining & Social Media Analytics
 **Loyola Marymount University | Spring 2026**
+
 **Instructor:** Dr. Ace Vo
 
 ---
