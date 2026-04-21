@@ -109,3 +109,8 @@ The CRF model trained on Twitter was applied to 20 restaurant-domain sentences. 
 
 ## Team
 **Aziza Jamjoom** · **Sadaf Sarbazi**
+
+---
+## Conclusion
+
+This project gave us hands-on experience with the full NER pipeline, from raw Twitter data to trained and evaluated models. Our key finding was that traditional ML methods like CRF outperformed neural approaches in this low-resource setting — with only 300 annotated tweets and severe class imbalance, the Bi-LSTM and fine-tuned Transformer struggled to learn meaningful entity patterns while the CRF leveraged hand-crafted features effectively. The annotation process was significantly more time-consuming and subjective than we anticipated, and achieving an IAA of κ=0.851 required careful guideline iteration and regular discussion between annotators. In future work, we would expand the annotated dataset substantially, apply data augmentation to address class imbalance, and explore few-shot learning approaches better suited to low-resource NER scenarios.
